@@ -21,7 +21,7 @@ You can install PapersGPT for Zotero globally using npm. This will make the `pz`
 npm install -g papersgpt-for-zotero
 ```
 
-After installation, ensure that you have your Zotero storage directory accessible and you are ready to use the `pz` command.
+After installation, ensure that you have your Zotero storage directory accessible and you are ready to use the `pz` command. More information please see https://github.com/papersgpt/papersgpt-for-zotero.
 
 ## When to use
 - Use PapersGPT for Zotero when you need to search, analyze, or synthesize information from your personal collection of research papers, PDFs, or academic notes stored in Zotero.
